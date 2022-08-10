@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "350BFD62-4DCF-43C6-AF5A-CD42B0751154"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38B00A10-BC6C-4A69-BCA5-491DC1A314EE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherForecast/View/Home/HomeViewController.m"
+            startingColumnNumber = "13"
+            endingColumnNumber = "13"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "-checkHavingCurrentCity"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
